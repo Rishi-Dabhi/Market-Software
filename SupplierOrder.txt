@@ -1,0 +1,18 @@
+##########################
+2
+Coke
+330.0
+2.04
+1900-09-09
+1900-09-09
+Images\2_Coke.jpg
+5
+40
+2023-03-25
+super Supplier
+23
+Greenway
+South Harrow
+SH230IK
+London
+England
